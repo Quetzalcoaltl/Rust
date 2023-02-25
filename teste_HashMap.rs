@@ -19,5 +19,3 @@ fn main() {
     if valores_ja_iterados.contains_key(&1) {println!("Funcionou");}
     //println!("Funcionou? {}", valores_ja_iterados.get(&1).unwrap());
 }
-
-//    if valores_ja_iterados.contains_key(&1) {println!("Funcionou, esse é o valor {}", valores_ja_iterados.get(&1).unwrap()); }
