@@ -12,3 +12,4 @@ fn main() {
 fn fun(x: i32) -> i32{
     return x + 1
 }
+// não funcionou, apesar disso preciso de uma configuração correta a partir do sistema de dados de rust
